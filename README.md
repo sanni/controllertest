@@ -16,4 +16,4 @@ N64 VCC  -> Arduino Uno 3.3V
 N64 Data -> Arduino Uno Pin 2  
 N64 GND  -> Arduino Uno GND  
 
-[![](https://dl.dropboxusercontent.com/u/20912715/video2.jpg)](https://www.youtube.com/watch?v=5PH3Je4rQf8)
+[![](https://www.dropbox.com/s/h3hswzkiqzc7vjr/video2.jpg?dl=1)](https://www.youtube.com/watch?v=5PH3Je4rQf8)
