@@ -16,4 +16,6 @@ N64 VCC  -> Arduino Uno 3.3V
 N64 Data -> Arduino Uno Pin 2  
 N64 GND  -> Arduino Uno GND  
 
+Between N64 Data and N64 VCC place a 1K Ohm resistor.  
+
 [![](https://dl.dropboxusercontent.com/s/h3hswzkiqzc7vjr/video2.jpg?dl=1)](https://www.youtube.com/watch?v=5PH3Je4rQf8)
